@@ -76,7 +76,7 @@
 		"serve-static": "^1.13.2",
 		"sharp": "^0.27.0",
 		"sqlite3": "^5.0.0",
-		"systeminformation": "^4.34.5",
+		"systeminformation": "^5.6.4",
 		"uuid": "^3.3.2",
 		"v-clipboard": "^2.2.1",
 		"vue-axios": "^2.1.4",
